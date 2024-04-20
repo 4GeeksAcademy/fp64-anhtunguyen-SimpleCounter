@@ -10,3 +10,19 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.timer{
+    width: 100%;
+    background-color: black;
+    height: 180px;
+    color: white;
+    font-size: 110px;
+    text-align: center;
+    padding-top: 10px;
+  }
+  .icon{
+    width: 140px;
+  }
+  .counter{
+    width: 100px;
+    margin-left: 10px;
+  }
